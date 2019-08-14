@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "PLKit.h"
+#import "PLTextView.h"
 
 FOUNDATION_EXPORT double PLKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char PLKitVersionString[];

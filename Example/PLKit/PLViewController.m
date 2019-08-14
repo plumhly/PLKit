@@ -7,6 +7,7 @@
 //
 
 #import "PLViewController.h"
+#import <PLKit/PLKit.h>
 
 @interface PLViewController ()
 
